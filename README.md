@@ -1,4 +1,4 @@
-BasicNoteApp (Basit Not Uygulaması)
+BasicNoteApp 
 
 Bu proje Mobil Programlama dersi ödevi olarak geliştirilmiştir.
 Amacı, temel not alma işlevlerini göstermek ve Android geliştirme pratiği yapmaktır.
