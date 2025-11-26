@@ -3,7 +3,7 @@ BasicNoteApp (Basit Not Uygulaması)
 Bu proje Mobil Programlama dersi ödevi olarak geliştirilmiştir.
 Amacı, temel not alma işlevlerini göstermek ve Android geliştirme pratiği yapmaktır.
 
-
+------------------------------------------------------------------
 Genel Bakış
 
 BasicNoteApp, kullanıcıların hızlıca not alabileceği ve saklayabileceği basit bir Android uygulamasıdır.
