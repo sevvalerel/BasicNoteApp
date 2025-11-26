@@ -10,6 +10,7 @@ BasicNoteApp, kullanıcıların hızlıca not alabileceği ve saklayabileceği b
 
 
 Özellikler:
+
 Yeni not ekleyebilme
 
 Mevcut notları görüntüleyebilme
@@ -17,7 +18,9 @@ Mevcut notları görüntüleyebilme
 Notları güvenli şekilde silebilme
 
 
+
 Öne Çıkan Özellikler
+
 Kalıcı Kayıt (Persistence): SharedPreferences kullanılarak notlar cihaz hafızasında saklanır.
 
 Hızlı Not Ekleme: “+” butonu ile mevcut metnin sonuna yeni bir not eklenebilir.
@@ -30,6 +33,7 @@ Responsive Tasarım: Butonlar ve yazı alanı farklı ekran boyutlarına uyum sa
 
 
 Kodun Önemli Kısımları
+
 MainActivity.java: Uygulamanın merkezi, kullanıcı etkileşimlerini ve veri kaydını yönetir.
 
 SharedPreferences: Notları kalıcı olarak saklar ve uygulama açıldığında yükler.
